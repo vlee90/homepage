@@ -2,63 +2,32 @@ body{
   background-color:#F0E68C;
 }
 
-header {
-
-}
-
-.navbar {
-
-}
-
 h1, h2, h3 {
   color: #000000;
-}
-
-p {
-
 }
 
 .header_nav {
   background-color: #00CC00;
 }
 
-nav ul li{
+.header_li{
   background-color: #009900;
 }
 
-nav ul {
-}
-
-nav a {
+.li_a {
   color: #FFFF00;
 }
 
-nav a:hover {
-  color: #0000CD;
-}
-
-
-section {
-
-}
-
-aside {
-
-}
-
-footer {
-
-}
-
-a {
+.section_a {
   color: #0000FF;
 }
 
-a:hover {
-  color: #FF0000;
+.background {
+  background-color: #00FF00;
+  border-color: #00FF00 #009900 #FF9900 #FFFF00;
 }
 
-.background {
+.border {
   background-color: #00FF00;
   border-color: #00FF00 #009900 #FF9900 #FFFF00;
 }
