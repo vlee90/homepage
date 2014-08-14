@@ -1,12 +1,12 @@
 .header_title {
   text-align: center;
 }
-.header_ul {
+.nav_ul {
   list-style-type: none;
   text-align: center;
   padding: 0;
 }
-.header_li {
+.ul_li {
   display: inline;
   font-size: 1.3em;
 }
